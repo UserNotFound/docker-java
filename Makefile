@@ -1,5 +1,5 @@
 DOCKER = docker
-TAGS = oracle-java7 oracle-java8
+TAGS = oracle-java8
 
 all: release
 

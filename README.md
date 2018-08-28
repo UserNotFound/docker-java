@@ -12,7 +12,6 @@ Java (JDK) on Docker.
 ## Available Tags
 
 * `latest`: Currently Oracle Java 8 JDK
-* `oracle-java7`: Oracle Java 7 JDK
 * `oracle-java8`: Oracle Java 8 JDK
 
 ## Tests
